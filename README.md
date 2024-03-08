@@ -1,6 +1,6 @@
 # ArchValheim
 
-A modpack for Arch Valheim players
+A minimal modpack for Arch Valheim players
 
 To request more mods, ask kevr in IRC.
 
@@ -18,7 +18,7 @@ Now, you can launch r2modman via ~/.local/bin/r2modman.
 1. Open `r2modman`
 2. Select the *Game* tab, search for *Valheim*, select it, and choose *Steam*
 3. Create a new profile
-4. Browse for and install `ArchValheim`
+4. Browse for and install `ArchValheim` and/or `ArchValheimOptional`
 5. Launch Valheim with *Start Modded* in the upper-left corner of r2modman
 6. Log in to the server as per usual
 
@@ -29,26 +29,11 @@ purposefully.
 
 ## Required Mods
 
-- denikson-BepInExPack_Valheim-5.4.2202
-    - Plugin bootstrapper needed by all mods
-- Azumatt-AzuAntiCheat-4.3.2
-    - Checks/enforceds mods used by the client
-- Advize-PlantEverything-1.16.2
-    - Plant more than normal: raspberry bushes, Yggdrasil trees, etc
-- Kevver-StayInYourBiome-1.0.2
-    - Keep creatures in their own biomes regardless of boss kills
+Required mods are maintained within the this modpack.
 
 These mods are required by the client because all clients need to be
 running them in order for them to be properly used at all.
 
 ## Optional Mods
 
-### Part of the pack
-- ComfyMods-ComfySigns-1.6.0
-    - Makes your signs look better
-
-### Not part of the pack
-- Azumatt-AzuClock-1.0.2
-    - A clock of in-game time
-- Pineapple-TorchesEternal-0.3.0
-    - Free fuel for fires and torches
+Optional mods are maintained within the [ArchValheimOptional](https://valheim.thunderstore.io/packages/Kevver/ArchValheimOptional) modpack, which depends on this modpack to function.
