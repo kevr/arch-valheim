@@ -36,4 +36,4 @@ running them in order for them to be properly used at all.
 
 ## Optional Mods
 
-Optional mods are maintained within the [ArchValheimOptional](https://valheim.thunderstore.io/packages/Kevver/ArchValheimOptional) modpack, which depends on this modpack to function.
+Optional mods are maintained within the [ArchValheimOptional](https://valheim.thunderstore.io/package/Kevver/ArchValheimOptional) modpack, which depends on this modpack to function.
